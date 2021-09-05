@@ -17,3 +17,9 @@ var uniquePathsWithObstacles = function(arr) {
         } 
         return arr[arr.length - 1][arr[0].length - 1]; 
     }
+
+
+/*
+Runtime: 76 ms, faster than 75.46% of JavaScript online submissions for Unique Paths II.
+Memory Usage: 39.3 MB, less than 77.16% of JavaScript online submissions for Unique Paths II.
+*/
